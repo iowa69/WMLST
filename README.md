@@ -11,10 +11,10 @@ download. Every scheme and every allele is already inside.
 
 ## Download
 
-**[⬇ Download WMLST for Windows](https://github.com/iowa69/WMLST/releases/latest)**
+**[⬇ Download WMLST for Windows](https://iowa69.github.io/WMLST/)**
 
-Take the file ending `-win64-portable.zip`. There is also a
-[one-click download page](https://iowa69.github.io/WMLST/) if you prefer.
+Take the file ending `-win64-portable.zip`. There is also a full release page
+(https://github.com/iowa69/WMLST/releases/latest) if you prefer.
 
 You get a single `.zip`. Unzip it anywhere you like — your Documents folder, a network
 share, a USB stick — and run `WMLST.exe` from inside the folder. Nothing is written to
